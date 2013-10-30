@@ -1,0 +1,55 @@
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<svg version="1.1" id="Eyes" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" x="0px" y="0px"
+	 width="464.556px" height="184.577px" viewBox="0 0 464.556 184.577" enable-background="new 0 0 464.556 184.577"
+	 xml:space="preserve">
+<ellipse id="eyelidL" fill-rule="evenodd" clip-rule="evenodd" fill="#EAD1B0" cx="152.098" cy="86.056" rx="97.727" ry="75.243"/>
+<ellipse id="eyelidR" fill-rule="evenodd" clip-rule="evenodd" fill="#EAD1B0" cx="359.422" cy="87.857" rx="93.403" ry="75.044"/>
+<path id="eyelashL" fill="none" stroke="#000000" stroke-width="9" stroke-miterlimit="10" d="M50.371,88.056
+	c46.901-73.11,134.359-76.64,191.348-19.982"/>
+<path id="eyelashR" fill="none" stroke="#000000" stroke-width="9" stroke-miterlimit="10" d="M262.897,78.435
+	c25.328-34.791,62.059-48.959,97.322-45.887c39.066,3.403,75.617,26.039,104.337,58.46"/>
+<g id="scleraRight">
+	<g>
+		<ellipse fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="355.068" cy="94.234" rx="103.654" ry="56.101"/>
+	</g>
+</g>
+  
+<g id="scleraleft">
+	<g>
+		<ellipse fill-rule="evenodd" clip-rule="evenodd" fill="#FFFFFF" cx="155.188" cy="90.762" rx="101.008" ry="56.704"/>
+	</g>
+</g>
+<radialGradient id="irisL_1_" cx="196.6252" cy="-19.7916" r="113.5784" gradientTransform="matrix(0.4918 0 0 0.494 47.2529 99.6602)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#BFB500"/>
+	<stop  offset="0.1533" style="stop-color:#B6AF00"/>
+	<stop  offset="0.4073" style="stop-color:#9C9F00"/>
+	<stop  offset="0.5509" style="stop-color:#8B9400"/>
+	<stop  offset="0.7622" style="stop-color:#6E5500"/>
+	<stop  offset="0.9944" style="stop-color:#572A00"/>
+</radialGradient>
+<ellipse id="irisL" fill="url(#irisL_1_)" stroke="#000000" stroke-miterlimit="10" cx="143.954" cy="89.884" rx="54.497" ry="57.438"/>
+<radialGradient id="irisR_1_" cx="627.006" cy="-15.4437" r="113.5784" gradientTransform="matrix(0.4958 0 0 0.4934 45.5446 100.5698)" gradientUnits="userSpaceOnUse">
+	<stop  offset="0" style="stop-color:#BFB500"/>
+	<stop  offset="0.1533" style="stop-color:#B6AF00"/>
+	<stop  offset="0.4073" style="stop-color:#9C9F00"/>
+	<stop  offset="0.5509" style="stop-color:#8B9400"/>
+	<stop  offset="0.7622" style="stop-color:#6E5500"/>
+	<stop  offset="0.9944" style="stop-color:#572A00"/>
+</radialGradient>
+<ellipse id="irisR" fill="url(#irisR_1_)" stroke="#000000" stroke-miterlimit="10" cx="356.393" cy="92.95" rx="54.936" ry="57.372"/>
+<g id="hands">
+
+	
+</g>
+
+<circle id="pupilright" fill="#0C1102" cx="355.999" cy="90.314" r="23.542" ry="24.787"/>
+       
+<circle id="pupilleft" fill="#0C1102" cx="143.999" cy="90.314" r="23.542" ry="24.787"/>
+       
+<ellipse id="hourleft" fill="#FFFFFF" cx="127.373" cy="74.636" rx="9.346" ry="9.255"/>
+<ellipse id="hourright" fill="#FFFFFF" cx="341.803" cy="75.747" rx="9.346" ry="9.255"/>
+       
+<ellipse id="minR" fill="#FFFFFF" cx="370.429" cy="108.535" rx="4.318" ry="6.565"/>
+<ellipse id="minL" fill="#FFFFFF" cx="155.416" cy="111.101" rx="4.318" ry="6.565"/>
+</svg>
+
